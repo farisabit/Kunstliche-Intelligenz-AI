@@ -9,7 +9,7 @@ Create a dataframe with data from WG-Gesucht, a portal for shared apartments and
 - Implement a class node with a function that performs an alpha-beta search.
 
 ## Assignment 3
-We the data collected on Assignment 1 for training 2 machine learning models to predict price:
+We used the data collected on Assignment 1 for training 2 machine learning models to predict price:
 
 - Linear regression, comparing results using the normal equation vs. gradient descent.
 - Fully-connected neural network using the torch library.
